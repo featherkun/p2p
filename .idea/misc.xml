@@ -11,8 +11,8 @@
         <option value="$PROJECT_DIR$/eureka_server/pom.xml" />
         <option value="$PROJECT_DIR$/p2p_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/p2p_userService/pom.xml" />
-        <option value="$PROJECT_DIR$/../p2p_commons/pom.xml" />
         <option value="$PROJECT_DIR$/p2p_loan/pom.xml" />
+        <option value="$PROJECT_DIR$/p2p_commons/pom.xml" />
       </list>
     </option>
   </component>
